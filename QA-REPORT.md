@@ -61,7 +61,7 @@ These checks are samples, not an exhaustive review of every route, device, assis
 - At 390px: mobile navigation opens, category filtering returns 11 riding mowers, empty-search recovery resets filters, and pagination advances to products 13–24. Comparison scrolls inside its table without widening the page.
 - At 360px: a Cub Cadet riding-mower detail page fits the viewport. No broken visible images or browser console errors were detected in these sampled flows.
 - Mobile navigation makes background content inert while open, supports Escape and keeps keyboard focus within the header/menu controls.
-- Motion uses 180ms ease-out interaction feedback and page crossfades where supported. Reduced-motion preferences disable animation. No scroll hijacking or delayed content reveals were added.
+- Motion uses 180ms ease-out interaction feedback. Document view transitions were removed after a hosted embedded-browser check exposed aborted navigation. Reduced-motion preferences disable animation. No scroll hijacking or delayed content reveals were added.
 - Vercel diagnosis: the short project address had no assigned preview because it targeted the empty production slot. Assigned the existing `yardstop-redesign.vercel.app` address to `preview/yard-stop-review`; deployment protection and company-domain separation are preserved.
 - The separate Vercel connector still lacks the voxel-designs team grant. This is independent of the working authenticated CLI and Git preview publishing.
 - Node.js 22.23.3 checks pass: 474 routes, 405 products and 68,610 internal references. Catalog tests also protect category counts, legacy links, natural-language search, exact numeric filters and non-mower breadcrumbs.

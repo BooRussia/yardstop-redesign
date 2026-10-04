@@ -30,7 +30,7 @@ Keep the prepared colors and bright photographic flowers; introduce no new color
 - duration: 180ms for navigation, disclosure, gallery selection and hover feedback; none when reduced motion is requested.
 - easing: ease-out.
 
-Keep content visible without animation or JavaScript. No looping animation, scroll hijacking, or staged reveal that delays shopping. Use a brief crossfade for supported page navigation and a small image shift for hover/selection feedback. Gallery thumbnails may scroll within their own row; the document must fit the viewport.
+Keep content visible without animation or JavaScript. No looping animation, scroll hijacking, or staged reveal that delays shopping. Keep native page navigation immediate and use a small image shift for hover/selection feedback. Document view transitions are excluded because the protected embedded preview aborted navigation. Gallery thumbnails may scroll within their own row; the document must fit the viewport.
 
 ## Navigation and hierarchy
 - Compact floral homepage introduction, immediate mower action, then a visual category catalog and real product cards.
