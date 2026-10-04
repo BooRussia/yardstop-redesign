@@ -1,0 +1,176 @@
+{
+  "title": "Purchase information",
+  "lastReviewed": "2026-10-04",
+  "phone": "(352) 368-1005",
+  "phoneHref": "tel:+13523681005",
+  "sources": [
+    {
+      "id": "product-faq",
+      "title": "Product shipping, returns and FAQ",
+      "url": "https://yardstopinc.com/shop/yard-stop/bagged-mulch/bagged-black-mulch/",
+      "sourceRef": "turn923view0"
+    },
+    {
+      "id": "product-faq-second",
+      "title": "Shared purchase information on bulk materials",
+      "url": "https://yardstopinc.com/shop/yard-stop/bulk-soil/bulk-fill-dirt/",
+      "sourceRef": "turn146view0"
+    },
+    {
+      "id": "homepage",
+      "title": "Delivery, setup and financing",
+      "url": "https://yardstopinc.com/",
+      "sourceRef": "turn923view1"
+    }
+  ],
+  "sections": [
+    {
+      "id": "shipping-returns",
+      "heading": "Shipping & returns",
+      "sourceUrls": [
+        "https://yardstopinc.com/shop/yard-stop/bagged-mulch/bagged-black-mulch/"
+      ],
+      "items": [
+        {
+          "heading": "Equipment",
+          "body": "Sales of outdoor power equipment are final, including mowers, handheld equipment, chainsaws and generators."
+        },
+        {
+          "heading": "Parts",
+          "body": "Electrical components and special parts are final sale. Other parts qualify for store credit within 30 days of purchase."
+        },
+        {
+          "heading": "Plants and landscape materials",
+          "body": "Plants, trees, shrubs, flowers, bulk landscape materials and special orders are final sale."
+        },
+        {
+          "heading": "Installed plant guarantee",
+          "body": "Plants both sold and installed by Yard Stop have a 6-month guarantee when properly irrigated and maintained. Neglect and natural disasters are excluded."
+        },
+        {
+          "heading": "Equipment awaiting collection",
+          "body": "Equipment left for an estimate or repair is considered abandoned after the stated 30-day notice period expires."
+        }
+      ]
+    },
+    {
+      "id": "delivery-setup",
+      "heading": "Delivery & setup",
+      "sourceUrls": [
+        "https://yardstopinc.com/",
+        "https://yardstopinc.com/shop/yard-stop/bagged-mulch/bagged-black-mulch/"
+      ],
+      "items": [
+        {
+          "heading": "Equipment delivery",
+          "body": "Delivery and setup are available for major equipment purchases in the Ocala area. Call (352) 368-1005 to confirm whether your purchase and address qualify for complimentary delivery."
+        },
+        {
+          "heading": "Landscape material delivery",
+          "body": "Delivery charges for landscape materials depend on distance. Ask the team for a delivery quote."
+        },
+        {
+          "heading": "Ready for your property",
+          "body": "Yard Stop fuels, services and prepares purchased equipment before pickup or delivery."
+        }
+      ]
+    },
+    {
+      "id": "financing",
+      "heading": "Financing & payment estimates",
+      "sourceUrls": [
+        "https://yardstopinc.com/",
+        "https://yardstopinc.com/shop/yard-stop/bulk-soil/bulk-fill-dirt/"
+      ],
+      "items": [
+        {
+          "heading": "Financing options",
+          "body": "Sheffield Financial financing is available, with promotional rates starting as low as 0%. The team can help with an application online or at the counter."
+        },
+        {
+          "heading": "Application timing",
+          "body": "Financing for a new mower or handheld equipment may be arranged in as little as 15 minutes. Ask Yard Stop about the options for your purchase."
+        },
+        {
+          "heading": "Monthly payment estimates",
+          "body": "Displayed payments are estimates. Actual amounts depend on the down payment, credit history, final price and available promotions. Taxes, title, tag, destination charges and other fees may be excluded. Confirm the current terms with a sales representative."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Do you deliver?",
+      "answer": "Yes. Equipment and landscape material delivery are available. Call (352) 368-1005 to confirm the current complimentary equipment delivery area and any delivery charge for your order.",
+      "sourceUrls": [
+        "https://yardstopinc.com/",
+        "https://yardstopinc.com/shop/yard-stop/bagged-mulch/bagged-black-mulch/"
+      ]
+    },
+    {
+      "question": "Will my equipment be ready to use?",
+      "answer": "Yard Stop fuels, services and prepares your machine before you collect it or receive delivery.",
+      "sourceUrls": [
+        "https://yardstopinc.com/shop/yard-stop/bulk-soil/bulk-fill-dirt/"
+      ]
+    },
+    {
+      "question": "Where are your plants sourced?",
+      "answer": "Plants are selected from regional nurseries and watered and cared for at Yard Stop. Moving and changes in growing conditions can affect plants; the nursery team can help you prepare for planting.",
+      "sourceUrls": [
+        "https://yardstopinc.com/shop/yard-stop/bulk-soil/bulk-fill-dirt/"
+      ]
+    },
+    {
+      "question": "Can I arrange a package?",
+      "answer": "Ask about lawn maintenance and landscaper packages. Yard Stop can also arrange trailer options through partners; trailers are not kept on the premises.",
+      "sourceUrls": [
+        "https://yardstopinc.com/shop/yard-stop/bulk-soil/bulk-fill-dirt/"
+      ]
+    },
+    {
+      "question": "Can I finance my purchase?",
+      "answer": "Financing is available for new mowers and handheld equipment. The team can discuss the equipment, current programs and application process with you.",
+      "sourceUrls": [
+        "https://yardstopinc.com/shop/yard-stop/bulk-soil/bulk-fill-dirt/"
+      ]
+    }
+  ],
+  "auditNotes": [
+    {
+      "id": "delivery-radius-conflict",
+      "status": "Confirm with client before publishing a radius",
+      "heading": "Conflicting complimentary delivery areas",
+      "facts": [
+        {
+          "value": 60,
+          "unit": "miles",
+          "scope": "Major equipment purchases",
+          "sourceUrl": "https://yardstopinc.com/",
+          "sourceRef": "turn923view1"
+        },
+        {
+          "value": 45,
+          "unit": "miles",
+          "scope": "Zero-turn mowers and similar equipment",
+          "sourceUrl": "https://yardstopinc.com/shop/yard-stop/bagged-mulch/bagged-black-mulch/",
+          "sourceRef": "turn923view0"
+        }
+      ],
+      "publicCopy": "Call (352) 368-1005 to confirm the current complimentary equipment delivery area.",
+      "note": "Neither radius is treated as the definitive current policy in the presentation site."
+    },
+    {
+      "id": "plant-guarantee-scope",
+      "status": "Verified source policy",
+      "heading": "Guarantee applies only to qualifying installed plants",
+      "note": "The source limits its 6-month guarantee to plants sold and installed by Yard Stop, with proper irrigation and maintenance. It excludes neglect and natural disasters. This is not a general guarantee on nursery purchases."
+    },
+    {
+      "id": "financing-claims",
+      "status": "Preserved as conditional published claims",
+      "heading": "Financing timing and rates",
+      "note": "The 15-minute timing is 'as little as'; 0% is 'as low as'. Neither is a promise for every purchaser. Product-specific payment estimates retain the source disclaimer."
+    }
+  ]
+}

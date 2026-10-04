@@ -1,0 +1,949 @@
+{
+  "auditedAt": "2026-10-04",
+  "indexUrl": "https://yardstopinc.com/blogs/",
+  "coverage": {
+    "indexedArticles": 20,
+    "additionalLinkedArticles": 9,
+    "pagination": "Primary /blogs/ lists20 posts without paging. The category archive exposes29 posts across3 pages; page4 does not resolve. All29 distinct posts were read.",
+    "publishedDates": "Publication dates recovered from category archives. Where two dates appear, the older date is recorded as publication and newer as modification.",
+    "contentStatus": "Condensed article adaptations preserve the main topics and link to their complete original sources. These are not complete article migrations.",
+    "legacyLinks": [
+      {
+        "url": "https://yardstopinc.com/blogs/news/why-is-my-lawn-mower-cutting-unevenly-and-how-do-i-fix-it",
+        "result": "Redirects to homepage; no distinct article available.",
+        "replacement": "https://yardstopinc.com/uneven-lawn-mower-cutting-fix/"
+      },
+      {
+        "url": "https://yardstopinc.com/blogs/news/why-is-my-lawn-mower-vibrating-excessively-while-in-use",
+        "result": "Redirects to homepage; no distinct article available.",
+        "replacement": "https://yardstopinc.com/why-my-mower-vibrating-excessively/"
+      }
+    ],
+    "totalArticles": 29,
+    "archivePages": [
+      "https://yardstopinc.com/category/blogs/",
+      "https://yardstopinc.com/category/blogs/page/2/",
+      "https://yardstopinc.com/category/blogs/page/3/"
+    ]
+  },
+  "articles": [
+    {
+      "slug": "how-to-prepare-your-lawn-mower-for-fall",
+      "url": "https://yardstopinc.com/how-to-prepare-your-lawn-mower-for-fall/",
+      "title": "How to Prepare Your Lawn Mower for Fall",
+      "originalTitle": "How to Prepare Your Lawn Mower for Fall: A Complete Maintenance Checklist",
+      "category": "Equipment care",
+      "publishedAt": "2026-09-29",
+      "image": "https://yardstopinc.com/wp-content/uploads/How-to-Prepare-Your-Lawn-Mower-for-Fall-A-Complete-Maintenance-Checklist.jpeg",
+      "summary": "As Florida lawns grow more slowly, give your mower a thorough seasonal check before its workload changes.",
+      "sections": [
+        {
+          "heading": "Start with fuel and oil",
+          "text": "Plan fuel treatment or draining around the manufacturer's storage instructions. Replace used engine oil and the filter where fitted, using the specified grade and quantity."
+        },
+        {
+          "heading": "Restore a clean cut",
+          "text": "Remove accumulated grass beneath the deck. Inspect blades for cracks, thinning and deep damage; sharpen and balance serviceable blades. Replace damaged blades. Brown, ragged grass tips can indicate a poor cutting edge."
+        },
+        {
+          "heading": "Check air, spark and storage",
+          "text": "Service air filters, inspect the spark plug and verify the specified gap. Clean the machine, protect the battery as directed and choose dry, covered storage."
+        },
+        {
+          "heading": "Ask the service team",
+          "text": "The Yard Stop provides equipment maintenance and financing in Ocala. Routine cleaning may suit an experienced owner; blade balancing, engine work and hydraulic servicing can benefit from professional tools and training."
+        }
+      ],
+      "sourceRef": "turn13view0",
+      "verificationNotes": [
+        "Source includes unverified percentage claims and generic oil, blade angle and fuel recommendations. Confirm against each equipment manual before publication."
+      ]
+    },
+    {
+      "slug": "get-your-mower-ready-for-floridas-spring-growing-season",
+      "url": "https://yardstopinc.com/get-your-mower-ready-for-floridas-spring-growing-season/",
+      "title": "Get Your Mower Ready for Florida’s Spring Growing Season",
+      "originalTitle": "How to Prepare Your Mower for Florida’s Spring Growing Season",
+      "category": "Equipment care",
+      "publishedAt": "2026-08-31",
+      "image": "https://yardstopinc.com/wp-content/uploads/Get-Your-Mower-Ready-for-Floridas-Spring-Growing-Season.jpeg",
+      "summary": "Prepare for faster spring growth with a mower that starts reliably and leaves a clean, even finish.",
+      "sections": [
+        {
+          "heading": "Refresh the engine essentials",
+          "text": "Inspect stored fuel and replace it when needed. Change oil and filters to the manufacturer's schedule. Examine the spark plug for wear or deposits, and service the air filter before dusty conditions increase."
+        },
+        {
+          "heading": "Give the deck attention",
+          "text": "Sharpen and balance the blades, clear dried clippings, lubricate specified service points, and check deck level. Correct tire pressure helps the deck cut evenly."
+        },
+        {
+          "heading": "Match care to Florida conditions",
+          "text": "St. Augustine, Zoysia and Bahia begin growing faster as temperatures rise. Sand can accelerate blade wear, while humidity makes careful fuel storage important. Follow the appropriate cutting height for your turf variety."
+        },
+        {
+          "heading": "Local equipment support",
+          "text": "The article features Ferris, Hustler and STIHL equipment, financing, genuine parts and the Ocala service department. If fresh fuel and basic checks do not resolve starting trouble, arrange a professional inspection."
+        }
+      ],
+      "sourceRef": "turn86view0",
+      "verificationNotes": [
+        "Source performance percentages, fixed sharpening intervals and fuel octane claims need manufacturer verification."
+      ]
+    },
+    {
+      "slug": "how-often-should-you-mow-your-lawn-in-a-florida-winter",
+      "url": "https://yardstopinc.com/how-often-should-you-mow-your-lawn-in-a-florida-winter/",
+      "title": "How Often Should You Mow Your Lawn in a Florida Winter?",
+      "category": "Lawn & garden",
+      "publishedAt": "2026-08-17",
+      "image": "https://yardstopinc.com/wp-content/uploads/How-Often-Should-You-Mow-Your-Lawn-in-a-Florida-Winter.jpg",
+      "summary": "Winter slows a Central Florida lawn, but your mowing routine should continue to follow its actual growth.",
+      "sections": [
+        {
+          "heading": "A gentler seasonal rhythm",
+          "text": "The Yard Stop's guide suggests an approximate two to three week interval during December through February. Mild weather can keep warm-season turf active, while colder periods reduce the need to cut."
+        },
+        {
+          "heading": "Consider the grass variety",
+          "text": "The original guide distinguishes St. Augustine, typically checked every two to three weeks, from Bahia, which may need attention nearer three weeks. Avoid scalping and select the height appropriate to the variety and site."
+        },
+        {
+          "heading": "Keep the cut clean",
+          "text": "Healthy leaf coverage helps protect turf during cold spells. Sharp blades and a correctly adjusted deck remain important even when mowing is less frequent."
+        },
+        {
+          "heading": "Use quieter weeks wisely",
+          "text": "Winter offers a useful opportunity to service equipment before spring. The Yard Stop can help with mower maintenance and selecting a machine suited to local lawns."
+        }
+      ],
+      "sourceRef": "turn95view0",
+      "verificationNotes": [
+        "Original winter growth percentage and blanket height adjustment are not independently verified."
+      ]
+    },
+    {
+      "slug": "how-to-choose-the-best-mower-for-large-acreage-properties-near-ocala-and-belleview",
+      "url": "https://yardstopinc.com/how-to-choose-the-best-mower-for-large-acreage-properties-near-ocala-and-belleview/",
+      "title": "Choosing a Mower for Large Acreage Near Ocala and Belleview",
+      "originalTitle": "How to Choose the Best Mower for Your Large Property in Florida",
+      "category": "Equipment guides",
+      "publishedAt": "2026-08-03",
+      "image": "https://yardstopinc.com/wp-content/uploads/Best-Mower-for-Large-Acreage-Properties-Near-Ocala-and-Belleview.jpeg",
+      "summary": "Match your mower to the land you actually cut, from open horse country to narrow gates and planted borders.",
+      "sections": [
+        {
+          "heading": "Measure before choosing",
+          "text": "Calculate mowable acreage, then measure gates, fence lines and other restrictions. A wider deck can save passes on open ground but still needs to fit your property."
+        },
+        {
+          "heading": "Look beyond deck width",
+          "text": "Compare engine response, electronic fuel injection, transmission capacity and heat management for sustained mowing. The guide mentions Hydro-Gear ZT-4400 and ZT-5400 systems and Hustler HyperDrive."
+        },
+        {
+          "heading": "Make comfort part of the decision",
+          "text": "Suspension and seating matter over uneven acreage. Ferris suspension is highlighted, alongside equipment from Hustler, STIHL, Exmark, Bad Boy and Wright."
+        },
+        {
+          "heading": "Support after the purchase",
+          "text": "The original article discusses 60-inch and 72-inch deck options, Sheffield financing with qualified promotional rates from 0% APR, and complimentary professional delivery and setup within 60 miles. Named communities include Belleview, Summerfield, Dunnellon and The Villages. Confirm the selected machine, available offer and delivery details with the team."
+        }
+      ],
+      "sourceRef": "turn94view0",
+      "verificationNotes": [
+        "Offers and inventory are time-sensitive. Source's fuel savings and speed comparisons require model-specific confirmation."
+      ]
+    },
+    {
+      "slug": "garden-center-meets-mower-dealer-why-the-yard-stop-does-both",
+      "url": "https://yardstopinc.com/garden-center-meets-mower-dealer-why-the-yard-stop-does-both/",
+      "title": "Garden Center Meets Mower Dealer: Why The Yard Stop Does Both",
+      "originalTitle": "How to Save Money and Time Maintaining Your Property in Florida",
+      "category": "At The Yard Stop",
+      "publishedAt": "2026-07-18",
+      "image": null,
+      "summary": "Plants, landscape materials and dependable equipment come together in one Ocala destination.",
+      "sections": [
+        {
+          "heading": "One visit, more accomplished",
+          "text": "Combining a nursery with an equipment dealership helps homeowners and landscape professionals coordinate purchases. Collect a serviced mower and pick up mulch or plants during the same trip."
+        },
+        {
+          "heading": "Build a practical equipment lineup",
+          "text": "Choosing compatible, serviceable equipment can simplify maintenance and parts planning. The article highlights Ferris, Hustler and STIHL for professional and residential outdoor work."
+        },
+        {
+          "heading": "Care for the whole landscape",
+          "text": "A good mowing routine works best alongside appropriate plant selection, turf care and ground cover. The garden center and equipment team address both sides of property maintenance."
+        },
+        {
+          "heading": "Service and purchasing support",
+          "text": "The Ocala location offers parts, mechanical repairs and financing options for homeowners and contractors. Discuss current eligibility, terms and any fleet offers directly with the team at 4160 W HWY 40."
+        }
+      ],
+      "sourceRef": "turn31view0",
+      "verificationNotes": [
+        "No article-specific image exposed. Do not repeat source's unverified 14% logistics statistic or fleet-financing promises as current guarantees."
+      ],
+      "modifiedAt": "2026-07-27"
+    },
+    {
+      "slug": "the-ultimate-florida-mowing-calendar-how-often-should-you-cut-your-grass",
+      "url": "https://yardstopinc.com/the-ultimate-florida-mowing-calendar-how-often-should-you-cut-your-grass/",
+      "title": "The Florida Mowing Calendar",
+      "originalTitle": "An Expert Florida Mowing Calendar to Perfect Your Routine",
+      "category": "Lawn & garden",
+      "publishedAt": "2026-06-25",
+      "image": "https://yardstopinc.com/wp-content/uploads/Florida-Mowing-Calendar.jpeg",
+      "summary": "A seasonal starting point for a healthy lawn, adjusted to rainfall, temperature and the pace of growth.",
+      "sections": [
+        {
+          "heading": "Spring and summer",
+          "text": "The guide suggests mowing every 7 to 10 days in March through May, then every 5 to 7 days during the faster growth of June through September."
+        },
+        {
+          "heading": "Fall and winter",
+          "text": "Suggested intervals extend to 10 to 14 days in October and November, and 14 to 21 days from December through February. Check the lawn rather than cutting automatically on the calendar."
+        },
+        {
+          "heading": "A better mowing routine",
+          "text": "Remove no more than one third of the grass height at once. Keep blades sharp and the deck clean, avoid wet turf, use a controlled pace and vary the mowing direction to limit wear patterns."
+        },
+        {
+          "heading": "Equipment that suits the job",
+          "text": "The article discusses local turf conditions, HOA expectations and dependable equipment support. It features Ferris, Exmark, Scag, Wright and STIHL, along with financing and in-house repairs at The Yard Stop."
+        }
+      ],
+      "sourceRef": "turn31view1",
+      "verificationNotes": [
+        "Seasonal intervals are starting points, not universal prescriptions. Confirm current dealership brand availability."
+      ],
+      "modifiedAt": "2026-08-05"
+    },
+    {
+      "slug": "the-ultimate-sunshine-state-gardening-guide-for-florida-homeowners",
+      "url": "https://yardstopinc.com/the-ultimate-sunshine-state-gardening-guide-for-florida-homeowners/",
+      "title": "A Florida Gardening Guide for Homeowners",
+      "originalTitle": "The Ultimate Sunshine State Gardening Guide for Florida Homeowners",
+      "category": "Lawn & garden",
+      "publishedAt": "2026-06-11",
+      "image": "https://yardstopinc.com/wp-content/uploads/What-Kind-of-Plants-Grow-Well-in-Florida.jpeg",
+      "summary": "Begin a beautiful Florida garden with plants chosen for your light, soil and water conditions.",
+      "sections": [
+        {
+          "heading": "Know your growing conditions",
+          "text": "Florida gardens face regional differences in winter temperatures, sandy soils, summer rainfall and coastal salt exposure. Observe the sun throughout the day and see where water collects after rain."
+        },
+        {
+          "heading": "Choose compatible plants",
+          "text": "Group plants with similar light and moisture needs. Native and Florida-friendly selections can reduce avoidable maintenance when matched to the right location."
+        },
+        {
+          "heading": "Prepare for establishment",
+          "text": "Consider soil preparation, correct planting depth and mulch to help manage moisture. Keep mulch away from trunks and stems. Adjust watering during establishment, then to the plant, rainfall and local requirements."
+        },
+        {
+          "heading": "Keep the landscape thriving",
+          "text": "Plant selection is one part of ongoing landscape care. The Yard Stop pairs nursery guidance with outdoor equipment, including Ferris, Hustler and STIHL, and financing support for larger purchases."
+        }
+      ],
+      "sourceRef": "turn31view2",
+      "verificationNotes": [
+        "The original USDA zones, universal compost ratio and fixed watering schedule should be reviewed against current UF/IFAS guidance and local restrictions."
+      ],
+      "modifiedAt": "2026-07-27"
+    },
+    {
+      "slug": "the-method-to-mowing-inclines-safely",
+      "url": "https://yardstopinc.com/the-method-to-mowing-inclines-safely/",
+      "title": "The Method to Mowing Inclines Safely",
+      "category": "Equipment guides",
+      "publishedAt": "2026-06-03",
+      "image": "https://yardstopinc.com/wp-content/uploads/mowing-steep-hills-guide.jpg",
+      "summary": "Slopes require a careful assessment of the terrain and the exact machine before mowing begins.",
+      "sections": [
+        {
+          "heading": "Measure the incline",
+          "text": "Do not judge steepness by sight alone. Use an appropriate angle-measuring tool, then compare the reading with the slope limits in your mower's operating manual."
+        },
+        {
+          "heading": "Understand the risks",
+          "text": "Weight distribution, tire grip and wet grass can affect control. A machine that performs well on level ground may be unsuitable for the same job on a slope."
+        },
+        {
+          "heading": "Follow the machine's instructions",
+          "text": "Use the manufacturer's specified mowing direction, operating speed and safety equipment. Avoid abrupt braking, acceleration or turns, and do not mow unsuitable or slippery terrain."
+        },
+        {
+          "heading": "Choose with local guidance",
+          "text": "The Yard Stop can help compare equipment for your property's conditions. The original article discusses Ferris and Scag, commercial walk-behind options and financing, and links to its guide to machines for hilly terrain."
+        }
+      ],
+      "sourceRef": "turn87view0",
+      "verificationNotes": [
+        "Original has conflicting up/down versus side-to-side instructions and claims a universal 15-degree threshold. Adaptation avoids reproducing this unsafe ambiguity; equipment-manual review required."
+      ]
+    },
+    {
+      "slug": "the-legality-of-tractors-on-florida-roads",
+      "url": "https://yardstopinc.com/the-legality-of-tractors-on-florida-roads/",
+      "title": "The Legality of Tractors on Florida Roads",
+      "category": "Equipment guides",
+      "publishedAt": "2026-05-20",
+      "image": "https://yardstopinc.com/wp-content/uploads/Is-it-legal-to-drive-a-tractor-on-the-road-in-Florida.jpeg",
+      "summary": "Moving agricultural equipment between properties calls for planning, visibility and a check of the applicable road requirements.",
+      "sections": [
+        {
+          "heading": "Check the requirements first",
+          "text": "The original article covers Florida rules for implements of husbandry, slow-moving vehicle identification, lighting, road-compatible tires and equipment width. Requirements depend on the equipment and route."
+        },
+        {
+          "heading": "Make the equipment visible",
+          "text": "Inspect lights and reflectors before travel. Ensure any required rear emblem remains visible when towing, and account for reduced visibility during rain or low light."
+        },
+        {
+          "heading": "Plan the move",
+          "text": "Consider traffic, route restrictions and safe opportunities to accommodate other road users. Check official Florida guidance before taking equipment onto a public road."
+        },
+        {
+          "heading": "Local equipment help",
+          "text": "The article introduces The Yard Stop's equipment, financing and mechanical support for properties around Ocala and The Villages. Contact the dealership to discuss the machine and its maintenance needs."
+        }
+      ],
+      "sourceRef": "turn59view0",
+      "verificationNotes": [
+        "Source cites Florida Statute 316.299 and Florida Attorney General information. Legal thresholds require authoritative current verification; this entry maps topics and is not a legal substitute."
+      ]
+    },
+    {
+      "slug": "year-round-mowing-is-non-negotiable-in-florida",
+      "url": "https://yardstopinc.com/year-round-mowing-is-non-negotiable-in-florida/",
+      "title": "Caring for a Florida Lawn Throughout the Year",
+      "originalTitle": "Year-Round Mowing is Non-Negotiable in Florida",
+      "category": "Lawn & garden",
+      "publishedAt": "2026-05-04",
+      "image": "https://yardstopinc.com/wp-content/uploads/Do-I-need-my-lawn-mowed-year-round-in-Florida_-Ocala-FL.jpeg",
+      "summary": "Ocala's changing seasons call for adjustments to lawn care throughout the year.",
+      "sections": [
+        {
+          "heading": "Keep watching winter growth",
+          "text": "Warm-season lawns often slow considerably in cooler weather. Continue checking height, weeds and fallen leaves rather than abandoning maintenance until spring."
+        },
+        {
+          "heading": "Adapt the calendar",
+          "text": "The article proposes weekly attention in spring, potentially every five days during fast summer growth, then roughly every two to three weeks as cooler weather arrives. Actual growth should determine when to mow."
+        },
+        {
+          "heading": "Protect the lawn",
+          "text": "An appropriate cutting height supports turf health. Regular observation helps you notice weeds, pest activity and areas needing attention without cutting too short."
+        },
+        {
+          "heading": "Maintain the equipment too",
+          "text": "The Yard Stop supports local homeowners with mower selection, servicing and financing. The original guide highlights mulching equipment from Hustler and Bad Boy."
+        }
+      ],
+      "sourceRef": "turn58view0",
+      "verificationNotes": [
+        "Original 2024 community observation claims 40% more weeds and 25% less herbicide with no verifiable study supplied; excluded from adaptation."
+      ]
+    },
+    {
+      "slug": "how-little-grass-is-too-little-in-mowing",
+      "url": "https://yardstopinc.com/how-little-grass-is-too-little-in-mowing/",
+      "title": "Riding Mowers: How Little Grass is Too Little?",
+      "category": "Equipment guides",
+      "publishedAt": "2026-04-23",
+      "image": "https://yardstopinc.com/wp-content/uploads/Riding_Mowers.jpg",
+      "summary": "A riding mower can make lawn care easier, but the right choice depends on more than acreage.",
+      "sections": [
+        {
+          "heading": "Look at the layout",
+          "text": "Flower beds, pools, tight corners and narrow passages can make a smaller mower easier to use. Consider how a machine will turn and fit around the features you already have."
+        },
+        {
+          "heading": "Weigh the size and cost",
+          "text": "The guide notes that properties under about half an acre may not gain enough time savings to justify a riding mower's additional cost. Personal comfort and preference still matter."
+        },
+        {
+          "heading": "When riding makes sense",
+          "text": "Larger, more open lawns can benefit from reduced physical effort and efficient coverage. Compare the terrain, storage space and ongoing maintenance as well as mowing time."
+        },
+        {
+          "heading": "Find the right fit",
+          "text": "The Yard Stop team can help compare push and riding options, answer lawn-care questions and assist with existing equipment problems at the Ocala store."
+        }
+      ],
+      "sourceRef": "turn60view0",
+      "verificationNotes": []
+    },
+    {
+      "slug": "battery-powered-mowers-vs-gas-mowers-the-carbon-impact",
+      "url": "https://yardstopinc.com/battery-powered-mowers-vs-gas-mowers-the-carbon-impact/",
+      "title": "Battery-Powered Mowers vs. Gas Mowers: The Carbon Impact",
+      "category": "Equipment guides",
+      "publishedAt": "2026-04-02",
+      "image": "https://yardstopinc.com/wp-content/uploads/yardstop-battery-vs-gas-mowers.jpg",
+      "summary": "Compare everyday usability, maintenance and environmental considerations when choosing your next mower.",
+      "sections": [
+        {
+          "heading": "Battery operation",
+          "text": "Rechargeable mowers avoid exhaust emissions at the point of use and can offer quiet operation and straightforward starting. Runtime, battery capacity and charging arrangements should suit the lawn."
+        },
+        {
+          "heading": "Gas operation",
+          "text": "Fuel-powered equipment remains an option for sustained workloads and demanding growth. It requires fuel handling, engine maintenance and attention to oil and filters."
+        },
+        {
+          "heading": "Match the property",
+          "text": "Consider acreage, obstacles, terrain and the heaviest conditions you expect. Some owners combine different tools to meet different tasks."
+        },
+        {
+          "heading": "Think about mowing habits",
+          "text": "Mulching can return organic material to Ocala's sandy soils. Appropriate equipment and maintenance help support a healthy lawn. The Yard Stop team can walk you through battery and gas options."
+        }
+      ],
+      "sourceRef": "turn61view0",
+      "verificationNotes": [
+        "Avoid source's unsupported numeric comparison between mower emissions and car mileage. Lifecycle emissions depend on energy source and equipment."
+      ]
+    },
+    {
+      "slug": "mulch-mowing-reduces-local-carbon-emissions",
+      "url": "https://yardstopinc.com/mulch-mowing-reduces-local-carbon-emissions/",
+      "title": "Mulch-Mowing and a Healthier Local Environment",
+      "originalTitle": "Mulch-Mowing Reduces Local Carbon Emissions",
+      "category": "Lawn & garden",
+      "publishedAt": "2026-03-18",
+      "image": "https://yardstopinc.com/wp-content/uploads/mulch_mowing_guide.jpg",
+      "summary": "Returning finely cut clippings to the lawn can put useful organic material back where it grows.",
+      "sections": [
+        {
+          "heading": "What mulching does",
+          "text": "A suitable mulching setup cuts clippings into smaller pieces and redistributes them over the turf. This practice is also called grasscycling."
+        },
+        {
+          "heading": "Less material to discard",
+          "text": "Leaving appropriate clippings in place reduces collection and transport. As they break down, they return nutrients and organic matter that can support soil health."
+        },
+        {
+          "heading": "Make the technique work",
+          "text": "Mow when conditions are suitable and the turf is dry. Avoid removing too much growth at once, since heavy clumps can interfere with light and decomposition."
+        },
+        {
+          "heading": "Choose compatible equipment",
+          "text": "Check the mower's mulching blades, deck and attachment options. The Yard Stop can help select and maintain equipment for local grasses and sandy soil conditions."
+        }
+      ],
+      "sourceRef": "turn64view0",
+      "verificationNotes": [
+        "Original broad claims about carbon storage, methane reduction and fertilizer replacement are not quantified or independently verified."
+      ]
+    },
+    {
+      "slug": "does-mowing-height-make-grass-more-resilient-to-drought",
+      "url": "https://yardstopinc.com/does-mowing-height-make-grass-more-resilient-to-drought/",
+      "title": "Mowing Height Makes Grass More Resilient",
+      "category": "Lawn & garden",
+      "publishedAt": "2026-02-19",
+      "image": "https://yardstopinc.com/wp-content/uploads/Mowing-Height-Makes-Grass-More-Resilient.jpg",
+      "summary": "The mower deck setting deserves as much attention as watering when a lawn faces heat and dry weather.",
+      "sections": [
+        {
+          "heading": "Protect leaf coverage",
+          "text": "Cutting too low can expose soil and stress the grass. A height appropriate to the turf variety helps retain a healthy canopy during difficult conditions."
+        },
+        {
+          "heading": "Keep blades in condition",
+          "text": "Sharp edges produce a cleaner cut than damaged or dull blades. Check blade condition and deck adjustment as the seasons change."
+        },
+        {
+          "heading": "Choose an adjustable setup",
+          "text": "A mower matched to the property should make it straightforward to maintain an even height without scalping. Compare deck adjustment, terrain handling and the areas you need to reach."
+        },
+        {
+          "heading": "Get a local check",
+          "text": "The Yard Stop offers deck adjustments, blade sharpening and equipment guidance in Ocala. Bring questions about the mower and lawn conditions to the team."
+        }
+      ],
+      "sourceRef": "turn62view0",
+      "verificationNotes": [
+        "Recommended heights vary significantly by grass species and cultivar; do not apply a universal taller-is-better setting."
+      ]
+    },
+    {
+      "slug": "diagnosing-mower-issues-faulty-ignition-system",
+      "url": "https://yardstopinc.com/diagnosing-mower-issues-faulty-ignition-system/",
+      "title": "Diagnosing Mower Issues: A Faulty Ignition System",
+      "category": "Equipment care",
+      "publishedAt": "2026-02-05",
+      "image": "https://yardstopinc.com/wp-content/uploads/A-Faulty-Ignition-System.jpg",
+      "summary": "Inconsistent starting is a reason to investigate, before a small problem becomes a lost mowing day.",
+      "sections": [
+        {
+          "heading": "Notice the symptoms",
+          "text": "Repeated starting attempts, a click without starting, immediate stalling or intermittent operation can point to several faults. Smoke or an unusual smell also warrants prompt attention."
+        },
+        {
+          "heading": "Inspect the system",
+          "text": "Spark plugs, coils, switches, wiring and electrical connections may need assessment. Ignition problems can affect performance and fuel use as well as starting."
+        },
+        {
+          "heading": "Know the limits of DIY",
+          "text": "An experienced owner may handle basic maintenance specified in the manual. Electrical diagnosis and damaged components can require professional equipment to avoid additional faults."
+        },
+        {
+          "heading": "Plan regular care",
+          "text": "Seasonal checks and protected storage help identify deterioration. The Yard Stop's service department can diagnose the cause and replace components that need attention."
+        }
+      ],
+      "sourceRef": "turn65view0",
+      "verificationNotes": [
+        "Original includes named testimonials without review links. Do not use them as newly verified testimonials."
+      ]
+    },
+    {
+      "slug": "why-are-mower-blades-drive-wheels-not-engaging",
+      "url": "https://yardstopinc.com/why-are-mower-blades-drive-wheels-not-engaging/",
+      "title": "Why Are the Blades or Drive Wheels Not Engaging?",
+      "category": "Equipment care",
+      "publishedAt": "2025-11-10",
+      "image": "https://yardstopinc.com/wp-content/uploads/Blades-or-Drive-Wheels-Not-Engaging.jpg",
+      "summary": "A running engine with stationary blades or wheels calls for a careful look at the systems that transfer power.",
+      "sections": [
+        {
+          "heading": "When blades will not turn",
+          "text": "Possible causes include a damaged blade belt, PTO clutch, engagement cable or lever, and obstructing debris. Battery condition may also matter on electric equipment."
+        },
+        {
+          "heading": "When the mower will not move",
+          "text": "Drive belts, transmission faults, worn wheel gears, cable adjustment and blocked wheels can interrupt movement."
+        },
+        {
+          "heading": "Begin with safe inspection",
+          "text": "Shut the machine down and follow the manual's isolation and support procedures. Inspect accessible belts for wear or damage and remove accumulated debris. Use model-specific replacement parts."
+        },
+        {
+          "heading": "Bring complex faults to the team",
+          "text": "A sound belt does not rule out a clutch or transmission problem. The Yard Stop can diagnose persistent engagement faults and advise on repair. Include belt and deck checks in seasonal maintenance."
+        }
+      ],
+      "sourceRef": "turn63view0",
+      "verificationNotes": [
+        "Original quotes reviews attributed to MapQuest, Porch and Yelp. Complete quoted passages are not reproduced. Do not guarantee repair time."
+      ],
+      "modifiedAt": "2026-01-15"
+    },
+    {
+      "slug": "source-of-major-oil-fuel-leaks",
+      "url": "https://yardstopinc.com/source-of-major-oil-fuel-leaks/",
+      "title": "What’s the Source of Major Oil or Fuel Leaks?",
+      "category": "Equipment care",
+      "publishedAt": "2025-11-01",
+      "image": "https://yardstopinc.com/wp-content/uploads/Whats-the-source-of-major-oil-or-fuel-leaks.jpg",
+      "summary": "A leak deserves prompt attention to protect the equipment, the surrounding ground and the operator.",
+      "sections": [
+        {
+          "heading": "Common sources",
+          "text": "Seals, gaskets, hoses, fuel lines and loose fittings can deteriorate or loosen. Tanks, carburetors, injectors, crankcases and valve covers are other possible inspection points."
+        },
+        {
+          "heading": "Identify without operating",
+          "text": "Oil and fuel differ in appearance and consistency, but the cause needs proper diagnosis. Stop using leaking equipment, especially when fuel is involved, and arrange safe inspection."
+        },
+        {
+          "heading": "Prevent avoidable wear",
+          "text": "Follow specified fluid levels, inspect connections and store equipment under cover. Heat, sunlight and weather exposure can accelerate deterioration."
+        },
+        {
+          "heading": "Repair early",
+          "text": "Cost depends on the component and labor required. The Yard Stop services mowers, tractors and other outdoor equipment and can help identify the source before damage worsens."
+        }
+      ],
+      "sourceRef": "turn80view0",
+      "verificationNotes": [
+        "Image URL was exposed but timed out on inspection. Original testimonials not independently verified."
+      ]
+    },
+    {
+      "slug": "repair-or-replace-lawn-mower",
+      "url": "https://yardstopinc.com/repair-or-replace-lawn-mower/",
+      "title": "Should I Repair or Replace My Lawn Mower?",
+      "category": "Equipment guides",
+      "publishedAt": "2025-10-27",
+      "image": "https://yardstopinc.com/wp-content/uploads/Should-I-Repair-or-Replace-My-Lawn-Mower.jpg",
+      "summary": "Compare repair costs, reliability and the demands of your property before deciding on the next step.",
+      "sections": [
+        {
+          "heading": "Consider the whole cost",
+          "text": "Repeated repairs and downtime may outweigh a single inexpensive fix. The original guide suggests reviewing replacement when a repair approaches half the mower's present value, while considering age and condition."
+        },
+        {
+          "heading": "Look for recurring problems",
+          "text": "Starting trouble, frequent belt or carburetor issues, vibration, uneven cutting and increased fuel or oil use deserve diagnosis. Deck and spindle problems may need more than blade sharpening."
+        },
+        {
+          "heading": "Review what you need now",
+          "text": "More acreage or a changed routine can justify a different machine. Compare steering, seating, vibration, deck design and ease of maintenance as well as cutting speed."
+        },
+        {
+          "heading": "Get an informed estimate",
+          "text": "The Yard Stop can inspect the mower and discuss repairs or an upgrade. The source advertises a free inspection and consultation; confirm current availability when arranging service."
+        }
+      ],
+      "sourceRef": "turn81view0",
+      "verificationNotes": [
+        "Source's advertised free inspection requires client confirmation. Unsupported percentage claims for time and fuel savings excluded."
+      ]
+    },
+    {
+      "slug": "how-to-tell-if-lawn-mower-is-burning-low-oil",
+      "url": "https://yardstopinc.com/how-to-tell-if-lawn-mower-is-burning-low-oil/",
+      "title": "How Can I Tell If My Lawnmower Is Burning Low Oil?",
+      "category": "Equipment care",
+      "publishedAt": "2025-10-11",
+      "image": "https://yardstopinc.com/wp-content/uploads/How-Can-I-Tell-If-My-Lawnmower-Is-Burning-Low-Oil_.jpg",
+      "summary": "Unusual engine noise or a falling oil level is a reason to stop and check the mower promptly.",
+      "sections": [
+        {
+          "heading": "Recognize warning signs",
+          "text": "Metallic knocking, clattering, lost power or stalling can indicate serious trouble. Shut the machine down instead of continuing to mow."
+        },
+        {
+          "heading": "Separate smoke from low oil",
+          "text": "Smoke can have several causes, including overfilling, spills, leaks or internal oil burning. A low reading and a smoking engine are not automatically the same problem."
+        },
+        {
+          "heading": "Check the level correctly",
+          "text": "Use level ground and the procedure in the owner's manual. Wipe and reinsert the dipstick as specified, then fill only to the indicated range using the recommended oil."
+        },
+        {
+          "heading": "Investigate persistent loss",
+          "text": "External leaks and internal wear need different repairs. Running without adequate lubrication can damage bearings and cylinder surfaces or seize the engine. The Yard Stop can assess the damage and explain repair or replacement options."
+        }
+      ],
+      "sourceRef": "turn82view0",
+      "verificationNotes": [
+        "Do not reproduce the source's manual blade-rotation seizure test or suggestion to restart a previously knocking engine without assessment."
+      ]
+    },
+    {
+      "slug": "lawn-mowing-before-hurricane-florida",
+      "url": "https://yardstopinc.com/lawn-mowing-before-hurricane-florida/",
+      "title": "Should You Cut Your Grass Before a Hurricane in Florida?",
+      "category": "Lawn & garden",
+      "publishedAt": "2025-10-02",
+      "image": "https://yardstopinc.com/wp-content/uploads/AdobeStock_170982804-scaled.jpeg",
+      "summary": "Plan landscape preparation early, with personal safety and official storm guidance taking priority.",
+      "sections": [
+        {
+          "heading": "Work ahead of the weather",
+          "text": "The original guide recommends completing mowing several days before a storm, when conditions permit. Avoid wet turf and leave time to collect loose material."
+        },
+        {
+          "heading": "Clear and secure the yard",
+          "text": "Remove loose debris and secure furniture, ornaments, hanging plants, toys, tools and bins. Keep drainage routes clear. Follow local collection guidance for any material you remove."
+        },
+        {
+          "heading": "Protect plants and equipment",
+          "text": "Avoid scalping the lawn. Address tree concerns well ahead of storms with qualified help where needed. Store the mower in a secure location protected from wind and possible flooding."
+        },
+        {
+          "heading": "Use official updates",
+          "text": "Consult the National Hurricane Center, UF/IFAS and Florida Division of Emergency Management for current preparation advice. The Yard Stop can assist with parts and scheduled mower maintenance before storm season."
+        }
+      ],
+      "sourceRef": "turn79view0",
+      "verificationNotes": [
+        "Source's specific lower cutting heights and categorical drain-clogging claims need horticultural verification. Image URL retrieved but image request timed out."
+      ],
+      "modifiedAt": "2026-01-28"
+    },
+    {
+      "slug": "why-is-my-lawn-mower-smoking",
+      "url": "https://yardstopinc.com/why-is-my-lawn-mower-smoking/",
+      "title": "Why Is My Lawn Mower Smoking?",
+      "category": "Equipment care",
+      "publishedAt": "2025-02-14",
+      "image": "https://yardstopinc.com/wp-content/uploads/AdobeStock_393086622-scaled.jpeg",
+      "summary": "Smoke can come from a simple maintenance issue or a more serious engine fault. Start by stopping the machine.",
+      "sections": [
+        {
+          "heading": "Consider the possible causes",
+          "text": "Overfilled oil, spilled oil, leaks, an incorrect lubricant, damaged engine components, fuel problems and restricted airflow can all require investigation."
+        },
+        {
+          "heading": "Notice the details",
+          "text": "Smoke color and a burning odor can help a technician assess the problem, but appearance alone does not establish the cause. Note whether the mower was recently tipped or serviced."
+        },
+        {
+          "heading": "Make safe checks",
+          "text": "With the engine off and cooled, follow the manual to check fluid levels, accessible leaks, filters and the spark plug. Correct overfilling only by the approved procedure."
+        },
+        {
+          "heading": "Do not ignore persistent smoke",
+          "text": "Worn rings, cylinder damage or gasket faults may need professional repair. The Yard Stop can provide advice, replacement parts and servicing when the cause is uncertain."
+        }
+      ],
+      "sourceRef": "turn114view0",
+      "discovery": "Linked from low-oil article; absent from the main blog index.",
+      "verificationNotes": [
+        "Original distinctions between smoke colors and moisture are oversimplified and should not be treated as definitive diagnosis."
+      ],
+      "modifiedAt": "2025-02-24"
+    },
+    {
+      "slug": "high-performance-riding-mowers-for-steep-terrain",
+      "url": "https://yardstopinc.com/high-performance-riding-mowers-for-steep-terrain/",
+      "title": "Choosing Equipment for Hilly Terrain",
+      "originalTitle": "Best Riding Mowers for Steep Hills",
+      "category": "Equipment guides",
+      "publishedAt": "2024-12-10",
+      "image": "https://yardstopinc.com/wp-content/uploads/ZXT-RIGHT-QUARTER-300x240.webp",
+      "summary": "Stable handling and the manufacturer's operating limits matter more than a mower's size or power on a slope.",
+      "sections": [
+        {
+          "heading": "Start with the site",
+          "text": "Measure the slopes, assess traction and identify areas the equipment cannot safely reach. Ground cover or a different maintenance method may suit difficult sections."
+        },
+        {
+          "heading": "Compare the right features",
+          "text": "The article discusses tires, center of gravity, rollover protection, transmission control, traction and operator comfort across zero-turn mowers, garden tractors and other formats."
+        },
+        {
+          "heading": "Models discussed in the original",
+          "text": "The source names Cub Cadet Z 972 SDL, Wright ZXT, Ferris Z 3 X and Hustler Super 88. Verify each exact configuration, current specifications and approved slope limits before choosing."
+        },
+        {
+          "heading": "Operate within the manual",
+          "text": "Dry conditions, controlled movement and properly maintained tires matter. Use only manufacturer-approved attachments and mowing methods. The Yard Stop can help compare equipment against the conditions on your property."
+        }
+      ],
+      "sourceRef": "turn117view0",
+      "discovery": "Linked from incline-safety article; absent from the main blog index.",
+      "verificationNotes": [
+        "Source includes generic 15–20-degree limits and possibly incorrect model specifications. Do not republish as verified. Linked image is 300x 240 and unsuitable for a large hero."
+      ],
+      "modifiedAt": "2026-06-03"
+    },
+    {
+      "slug": "why-my-mower-vibrating-excessively",
+      "url": "https://yardstopinc.com/why-my-mower-vibrating-excessively/",
+      "title": "Why Is My Lawn Mower Vibrating Excessively While in Use?",
+      "category": "Equipment care",
+      "publishedAt": "2025-09-19",
+      "image": "https://yardstopinc.com/wp-content/uploads/vibrating-lawn-mower-issues-scaled.jpg",
+      "summary": "Unexpected vibration is a signal to stop mowing and identify the cause before damage increases.",
+      "sections": [
+        {
+          "heading": "Start with the cutting system",
+          "text": "A bent, loose or unbalanced blade can make the whole machine shake. Damage after striking an object or incorrect sharpening can upset its balance."
+        },
+        {
+          "heading": "Look beyond the blade",
+          "text": "Spindles, worn bearings, accumulated clippings, belts and engine mounts can also contribute. Persistent shaking needs a diagnosis rather than repeated part replacement."
+        },
+        {
+          "heading": "Inspect safely",
+          "text": "Shut down and follow the manual for isolating and supporting the mower. Check visible damage and debris only when safe to do so. Blade work needs the specified hardware and torque."
+        },
+        {
+          "heading": "Arrange a repair",
+          "text": "The Yard Stop handles blade, spindle and engine faults. Repair cost depends on the cause. Smoking combined with vibration calls for immediate professional attention."
+        }
+      ],
+      "sourceRef": "turn903view0",
+      "discovery": "Original category archive page3; absent from primary blog index.",
+      "verificationNotes": [],
+      "modifiedAt": "2026-01-15"
+    },
+    {
+      "slug": "uneven-lawn-mower-cutting-fix",
+      "url": "https://yardstopinc.com/uneven-lawn-mower-cutting-fix/",
+      "title": "Why Is My Lawn Mower Cutting Unevenly?",
+      "category": "Equipment care",
+      "publishedAt": "2025-09-14",
+      "image": "https://yardstopinc.com/wp-content/uploads/uneven-lawn-mower-cutting-fix.jpg",
+      "summary": "An uneven finish can come from the mower setup, blade condition or the way the lawn is being cut.",
+      "sections": [
+        {
+          "heading": "Check the blade",
+          "text": "Dull edges tear grass, and bent blades can produce an uneven result. Inspect and service blades using the equipment instructions."
+        },
+        {
+          "heading": "Check the setup",
+          "text": "Tire or wheel height differences and an incorrectly adjusted deck can cause one side to cut lower. Follow the model-specific leveling procedure."
+        },
+        {
+          "heading": "Adjust the routine",
+          "text": "Use a steady pace, avoid taking off more than one third of the leaf at once, and change mowing direction periodically. Keep the underside clear of accumulated clippings."
+        },
+        {
+          "heading": "Get a cleaner cut",
+          "text": "The Yard Stop offers blade sharpening, deck adjustments and parts. A technician can assess persistent problems and help restore an even finish."
+        }
+      ],
+      "sourceRef": "turn901view0",
+      "discovery": "Original category archive page3; absent from primary blog index.",
+      "verificationNotes": []
+    },
+    {
+      "slug": "lawn-mower-good-for-0-7-acres",
+      "url": "https://yardstopinc.com/lawn-mower-good-for-0-7-acres/",
+      "title": "What Lawn Mower Size is Good for 0.7 Acres?",
+      "category": "Equipment guides",
+      "publishedAt": "2025-07-05",
+      "image": "https://yardstopinc.com/wp-content/uploads/1gARbu9a-300x200.jpeg",
+      "summary": "For a property near seven tenths of an acre, compare comfort and access alongside cutting width.",
+      "sections": [
+        {
+          "heading": "A useful starting size",
+          "text": "The original guide recommends considering a riding mower with a 42 to 48-inch deck. The appropriate width depends on mowable space, gates, trees and other obstacles."
+        },
+        {
+          "heading": "Compare mower types",
+          "text": "A zero-turn can offer maneuverability around landscaping. A lawn tractor may support useful attachments. The exact model and its operating limits determine suitability for terrain."
+        },
+        {
+          "heading": "Consider everyday use",
+          "text": "Try the seating and controls. Compare transmission, bagging and mulching options, storage needs and maintenance. The source discusses 16 to 22 horsepower as a starting range, not a universal requirement."
+        },
+        {
+          "heading": "Make the choice yours",
+          "text": "Riding equipment can reduce physical effort, while walking options may still fit individual preferences. The Yard Stop can help assess the land and compare practical options."
+        }
+      ],
+      "sourceRef": "turn899view0",
+      "discovery": "Original category archive page3; absent from primary blog index.",
+      "verificationNotes": [
+        "Original image is300x200; replace for large presentation use."
+      ]
+    },
+    {
+      "slug": "mowers-we-offer-ocala-fl",
+      "url": "https://yardstopinc.com/mowers-we-offer-ocala-fl/",
+      "title": "Explore The Yard Stop’s Mower Selection",
+      "category": "Equipment guides",
+      "publishedAt": "2025-06-14",
+      "image": "https://yardstopinc.com/wp-content/uploads/2025-02-25-1024x768.jpg",
+      "summary": "Find equipment suited to your property, with local advice and service beyond the purchase.",
+      "sections": [
+        {
+          "heading": "Five formats to compare",
+          "text": "The article covers zero-turn mowers, self-propelled models, push mowers, corded and cordless electric machines, and riding lawn tractors. Each offers different benefits for space, effort and mowing conditions."
+        },
+        {
+          "heading": "Look for long-term value",
+          "text": "Compare engine quality, deck construction, drive systems and ease of maintenance. For battery equipment, consider usable runtime, battery support and motor design."
+        },
+        {
+          "heading": "Keep it well cared for",
+          "text": "Blade sharpening, cleaning, oil service where applicable and battery care help protect the investment. Follow the schedule for the selected machine."
+        },
+        {
+          "heading": "Local support",
+          "text": "The Yard Stop offers hands-on equipment comparisons, parts and ongoing maintenance. Discuss the lawn size, terrain and budget with the Ocala team."
+        }
+      ],
+      "sourceRef": "turn900view0",
+      "discovery": "Original category archive page3; absent from primary blog index.",
+      "verificationNotes": []
+    },
+    {
+      "slug": "why-durable-lawn-mowers-are-essential-for-floridas-climate",
+      "url": "https://yardstopinc.com/why-durable-lawn-mowers-are-essential-for-floridas-climate/",
+      "title": "Why Durable Lawn Mowers Matter in Florida",
+      "category": "Equipment guides",
+      "publishedAt": "2025-04-30",
+      "image": "https://yardstopinc.com/wp-content/uploads/AdobeStock_487911501.jpeg",
+      "summary": "Heat, moisture, sandy ground and a long growing season make equipment quality and maintenance especially important.",
+      "sections": [
+        {
+          "heading": "Consider the working conditions",
+          "text": "Frequent use can stress engines, belts, decks and other components. Choose equipment designed for the intended workload and store it out of the weather."
+        },
+        {
+          "heading": "Compare key features",
+          "text": "Look at engine reliability, deck and frame construction, cooling, corrosion protection, traction and cutting-height adjustment. Service access and parts availability also affect long-term ownership."
+        },
+        {
+          "heading": "Match the property",
+          "text": "Walk-behind equipment may suit smaller areas, while larger properties may benefit from riding or zero-turn formats. The source highlights Ferris, Hustler, Bad Boy, Cub Cadet and STIHL."
+        },
+        {
+          "heading": "Maintain consistently",
+          "text": "Clean and dry the mower, inspect filters and oil as applicable, and maintain sharp blades. Follow manufacturer intervals and investigate overheating, poor cuts or difficult starting with The Yard Stop service team."
+        }
+      ],
+      "sourceRef": "turn902view0",
+      "discovery": "Original category archive page3; absent from primary blog index.",
+      "verificationNotes": [],
+      "modifiedAt": "2026-01-28"
+    },
+    {
+      "slug": "find-your-perfect-affordable-commercial-mower-in-ocala",
+      "url": "https://yardstopinc.com/find-your-perfect-affordable-commercial-mower-in-ocala/",
+      "title": "Find an Affordable Commercial Mower in Ocala",
+      "category": "Equipment guides",
+      "publishedAt": "2025-03-06",
+      "image": "https://yardstopinc.com/wp-content/uploads/Hustler-Mower-Ultimate-Package.jpg",
+      "summary": "Commercial value combines dependable construction, productivity, operator comfort and accessible maintenance.",
+      "sections": [
+        {
+          "heading": "Build the comparison",
+          "text": "The original guide assesses frame and deck strength, cutting performance, seating, controls, repairability and overall value."
+        },
+        {
+          "heading": "Entry-level models discussed",
+          "text": "Its historical under $10,000 group includes the Hustler FasTrak SDX 54 and Bad Boy Maverick HD 60. Confirm current pricing and configuration."
+        },
+        {
+          "heading": "Midrange models discussed",
+          "text": "The $10,001 to $20,000 group names Ferris ISX 2200 with a 60-inch deck, Hustler Super Z 60 and Wright Stander ZK 72 EFI."
+        },
+        {
+          "heading": "Higher-capacity models discussed",
+          "text": "The above $20,000 group includes Ferris ISX 3300 with a 72-inch deck, Hustler HyperDrive 72 and Bad Boy Outlaw Rogue 72. The article is a comparison starting point; The Yard Stop can confirm current machines, offers and a suitable fit."
+        }
+      ],
+      "sourceRef": "turn898view0",
+      "discovery": "Original category archive page3; absent from primary blog index.",
+      "verificationNotes": [
+        "Historical price bands and several inconsistent model descriptions need client verification."
+      ],
+      "modifiedAt": "2026-01-28"
+    },
+    {
+      "slug": "how-to-keep-your-outdoor-kitchen-cool",
+      "url": "https://yardstopinc.com/how-to-keep-your-outdoor-kitchen-cool/",
+      "title": "How to Keep Your Outdoor Kitchen Cool",
+      "category": "Outdoor living",
+      "publishedAt": "2024-10-04",
+      "image": "https://yardstopinc.com/wp-content/uploads/Blogpost-Banner-150x46.png",
+      "summary": "Thoughtful shade, airflow and planting can make outdoor cooking more comfortable in warm weather.",
+      "sections": [
+        {
+          "heading": "Create comfortable shade",
+          "text": "Consider a pergola, gazebo, retractable awning or movable umbrella that suits the space. Select the location with natural airflow in mind."
+        },
+        {
+          "heading": "Plan equipment and lighting",
+          "text": "Appropriately rated fans can improve comfort. Choose appliances for the meals and group sizes you expect, and consider efficient LED lighting."
+        },
+        {
+          "heading": "Adjust the cooking routine",
+          "text": "Prepare ingredients indoors and enjoy outdoor meals during cooler parts of the day. The original article also discusses misting and water features as comfort options."
+        },
+        {
+          "heading": "Add thoughtful planting",
+          "text": "Trees, shrubs, climbing plants and containers can contribute shade and character. Allow for mature size, roots, circulation and required appliance clearances when planning the layout."
+        }
+      ],
+      "sourceRef": "turn826view0",
+      "discovery": "Original category archive page3; absent from primary blog index.",
+      "verificationNotes": [
+        "Original banner is150x46 and unsuitable for large display. Cached footer lists Belleview; current main-site footer lists only Ocala."
+      ],
+      "modifiedAt": "2025-01-27"
+    }
+  ]
+}

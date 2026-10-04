@@ -1,0 +1,120 @@
+{
+  "auditedAt": "2026-10-04",
+  "coverage": {
+    "footerPolicies": 4,
+    "status": "All four policies linked from the original footer were read. These summaries identify retained topics; they are not replacement legal terms. Keep prominent access to each complete original policy.",
+    "privacyCanonicalPath": "/privacy/",
+    "lastModified": "No reliable effective date was exposed in the retrieved policy pages.",
+    "implementationNote": "The presentation site's actual data collection and cookie behavior must be reflected in its eventual approved policies before public launch. Do not claim the original site's specific certifications on the strength of its boilerplate."
+  },
+  "policies": [
+    {
+      "slug": "terms-and-conditions",
+      "url": "https://yardstopinc.com/terms-and-conditions/",
+      "title": "Terms and Conditions",
+      "publishedAt": null,
+      "summary": "The original terms cover website information, orders, shipping, returns, privacy and optional text communications. Consult the complete policy for its governing wording.",
+      "sections": [
+        {
+          "heading": "Website and orders",
+          "text": "The policy reserves correction of errors and the acceptance or cancellation of orders. Canceled, charged orders receive reimbursement through the original payment method. Content reuse requires authorization."
+        },
+        {
+          "heading": "Delivery and returns",
+          "text": "Shipping options and cost depend on the goods, destination and method. Return claims require the receipt and prior authorization within 45 days. Custom orders are final; shipping and handling are excluded. Authorized refunds include the item and applicable tax, generally within 30 days of receipt. COD returns are not accepted."
+        },
+        {
+          "heading": "Messaging",
+          "text": "Optional SMS/MMS covers orders, shipping, support, appointments, promotions and transaction follow-up. Participants must be 18 or older. STOP ends messages; HELP requests assistance. Frequency varies and carrier charges may apply."
+        },
+        {
+          "heading": "Questions",
+          "text": "For current terms or an order issue, contact The Yard Stop at (352) 368-1005."
+        }
+      ],
+      "sourceRef": "turn98view0",
+      "verificationNotes": [
+        "Original terms say no personal data distribution, while the privacy policy describes partner disclosures. Review this inconsistency with the client before launch."
+      ]
+    },
+    {
+      "slug": "privacy",
+      "url": "https://yardstopinc.com/privacy/",
+      "title": "Privacy Policy",
+      "publishedAt": null,
+      "summary": "The complete policy describes information collection, use, sharing, retention and choices. Its20 sections include regional rights and SMS communications.",
+      "sections": [
+        {
+          "heading": "Information and use",
+          "text": "The policy covers information supplied directly, received from partners and collected automatically. Purposes include service delivery, business operations, communication, advertising, security and analysis."
+        },
+        {
+          "heading": "Protection and sharing",
+          "text": "It describes safeguards, supplier relationships, legal disclosures, corporate transactions, retention and international transfers. It addresses external services, children under 16 and browser tracking signals."
+        },
+        {
+          "heading": "Privacy choices",
+          "text": "Topics include access, correction, deletion, objection, portability, consent withdrawal and marketing preferences. Dedicated sections address Europe, California, Colorado, Connecticut, Utah and Virginia, including verification and appeals."
+        },
+        {
+          "heading": "Text communications and contact",
+          "text": "SMS participation requires consent. Text STOP to end messages or HELP for assistance at (352) 368-1005. Rates may apply. Privacy requests may be directed to The Yard Stop, 4160 W HWY 40, Ocala, FL 34482."
+        }
+      ],
+      "sourceRef": "turn118view0",
+      "verificationNotes": [
+        "Original policy claims Data Privacy Framework certification without a specific registry link. Do not adopt this as a verified fact. The CCPA category table and every full provision remain accessible at the source URL."
+      ]
+    },
+    {
+      "slug": "cookie-policy",
+      "url": "https://yardstopinc.com/cookie-policy/",
+      "title": "Cookie Policy",
+      "publishedAt": null,
+      "summary": "The original cookie policy explains the technologies used on the existing website and the controls available through a browser.",
+      "sections": [
+        {
+          "heading": "Cookie categories",
+          "text": "The policy identifies essential functions, Google Analytics measurement, social integrations, advertising and session management. It describes cookies as small files stored on a visitor's device."
+        },
+        {
+          "heading": "Your browser choices",
+          "text": "Browser settings can accept or reject cookies. Some original-site features may depend on them, including remembered sessions or preferences."
+        },
+        {
+          "heading": "Updates and questions",
+          "text": "The business may revise the policy as technologies or requirements change. The complete original policy remains available for review, and questions can be directed to the company's published contact details."
+        }
+      ],
+      "sourceRef": "turn101view0",
+      "verificationNotes": [
+        "Do not infer the new presentation uses Google Analytics, marketing cookies or a cart merely because the original policy does. Actual implementation requires matching policy language."
+      ]
+    },
+    {
+      "slug": "accessibility-statement",
+      "url": "https://yardstopinc.com/accessibility-statement/",
+      "title": "Accessibility Statement",
+      "publishedAt": null,
+      "summary": "The Yard Stop's published statement expresses a commitment to an accessible, inclusive website.",
+      "sections": [
+        {
+          "heading": "Accessible use",
+          "text": "The statement references recognized accessibility practices and WCAG, including compatibility with screen readers, keyboard operation and voice input."
+        },
+        {
+          "heading": "Ongoing improvement",
+          "text": "It describes continued review across devices and browsers. Visitors are invited to report difficulty accessing content or suggest improvements by phone or email."
+        },
+        {
+          "heading": "Contact for assistance",
+          "text": "Call The Yard Stop at (352) 368-1005 for help with information or services, or use the contact details on the complete original site."
+        }
+      ],
+      "sourceRef": "turn100view0",
+      "verificationNotes": [
+        "The original statement does not specify a WCAG version, conformance level or completed audit. Do not claim certified accessibility."
+      ]
+    }
+  ]
+}

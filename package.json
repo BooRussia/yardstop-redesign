@@ -1,0 +1,14 @@
+{
+  "name": "yard-stop-presentation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs",
+    "verify": "node scripts/verify.mjs",
+    "assets": "node scripts/localize-assets.mjs"
+  },
+  "engines": { "node": "22.x" }
+}
