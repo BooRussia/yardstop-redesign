@@ -1,10 +1,5 @@
 {
-  "git": {
-    "deploymentEnabled": {
-      "preview/yard-stop-review": true,
-      "*": false
-    }
-  },
+  "git": { "deploymentEnabled": false },
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "framework": null,
