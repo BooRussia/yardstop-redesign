@@ -1,0 +1,7 @@
+.git/
+.vercel/
+.env*
+node_modules/
+dist/
+outputs/
+public/assets/garden-hero.png
