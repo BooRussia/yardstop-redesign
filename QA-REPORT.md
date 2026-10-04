@@ -61,7 +61,7 @@ These checks are samples, not an exhaustive review of every route, device, assis
 - At 390px: mobile navigation opens, category filtering returns 11 riding mowers, empty-search recovery resets filters, and pagination advances to products 13–24. Comparison scrolls inside its table without widening the page.
 - At 360px: a Cub Cadet riding-mower detail page fits the viewport. No broken visible images or browser console errors were detected in these sampled flows.
 - Mobile navigation makes background content inert while open, supports Escape and keeps keyboard focus within the header/menu controls.
-- Motion uses 180ms ease-out interaction feedback. Document view transitions were removed after a hosted embedded-browser check exposed aborted navigation. Reduced-motion preferences disable animation. No scroll hijacking or delayed content reveals were added.
+- Motion uses 180ms ease-out interaction feedback. Document view transitions were removed after the embedded browser reported an unsupported-transition error. A fresh hosted browser tab then passed the complete mouse-navigation flow; the older tab also required fresh browser state. Reduced-motion preferences disable animation. No scroll hijacking or delayed content reveals were added.
 - Vercel diagnosis: the short project address had no assigned preview because it targeted the empty production slot. Assigned the existing `yardstop-redesign.vercel.app` address to `preview/yard-stop-review`; deployment protection and company-domain separation are preserved.
 - The separate Vercel connector still lacks the voxel-designs team grant. This is independent of the working authenticated CLI and Git preview publishing.
 - Node.js 22.23.3 checks pass: 474 routes, 405 products and 68,610 internal references. Catalog tests also protect category counts, legacy links, natural-language search, exact numeric filters and non-mower breadcrumbs.
@@ -73,3 +73,10 @@ These checks are samples, not an exhaustive review of every route, device, assis
 2. Recover missing product details and exact photos, inspect image quality and confirm model matches throughout the catalog.
 3. Confirm the conflicting 45-mile/60-mile delivery radius, prices, availability, finance terms and business policies.
 4. Complete accessibility, cross-browser and broader mobile QA. Connect an approved form backend only when authorized; preview forms currently do not submit.
+
+## Hosted revision verification
+
+- Verified code revision 452d56a at Preview deployment dpl_BVgQV2PGEUYAgm5Uy1koFcokzpxe, Ready with preview target, on October 4, 2026.
+- Both yardstop-redesign.vercel.app and the branch alias point to the protected preview branch. Unauthenticated access redirects to Vercel sign-in; authenticated access returns 200 and X-Robots-Tag: noindex, nofollow, noarchive.
+- A fresh hosted browser passed homepage category to riding-mower catalog to Cub Cadet CC30 detail, image selection, return home, and two-model comparison. No console errors were reported in that fresh flow.
+- The hosted homepage displays eight category destinations and four featured mower cards. Exact product photos and the unchanged company logo are retained.
