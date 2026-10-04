@@ -51,6 +51,22 @@ These checks are samples, not an exhaustive review of every route, device, assis
 - Hosted 390px product review found a 488px-wide document caused by the thumbnail row's intrinsic minimum width. Set min-width:0 on the product gallery and copy grid items, keeping thumbnail scrolling within its row. Local 390px retest fits the viewport; desktop layout is preserved.
 - UI diff review: PASS files-before-ui, lookup-after-lock, nested-cards, radius-drift, mixed-radii, extra-color, gray-on-color, unchosen-font, equal-three-cards, copy-length, eyebrow-repeat, spectacle-pattern, motion-for-show, glass-decoration, motion-easing, restyle-per-screen. The CSS diff only changes minimum width; existing design and content are preserved per the user's instruction.
 
+## Shopping and navigation revision
+
+- Preserved all original product records and paths; added seven category pages for 474 total routes. The homepage exposes eight visual destinations directly below a compact floral introduction, followed by four actual mower listings.
+- Category links, department navigation, active categories, readable specifications and return-to-results links clarify the path from browsing to a model.
+- Desktop browser checks: zero-turn category opens with 217 products; Hustler plus an exact 42-inch deck returns three models. Ascending price sort, the 944470 product page, thumbnail selection and the corresponding image lightbox work.
+- Search for “lawn mowers” returns mower categories and models. Inquiry validation requires a message; a complete synthetic inquiry displays the explicit confirmation that nothing was sent, saved, purchased or reserved.
+- Model comparison displays original prices/specifications and marks missing facts “Ask our team.” Product paths alone are stored in the current browser session; inquiry details are never stored.
+- At 390px: mobile navigation opens, category filtering returns 11 riding mowers, empty-search recovery resets filters, and pagination advances to products 13–24. Comparison scrolls inside its table without widening the page.
+- At 360px: a Cub Cadet riding-mower detail page fits the viewport. No broken visible images or browser console errors were detected in these sampled flows.
+- Mobile navigation makes background content inert while open, supports Escape and keeps keyboard focus within the header/menu controls.
+- Motion uses 180ms ease-out interaction feedback and page crossfades where supported. Reduced-motion preferences disable animation. No scroll hijacking or delayed content reveals were added.
+- Vercel diagnosis: the short project address had no assigned preview because it targeted the empty production slot. Assigned the existing `yardstop-redesign.vercel.app` address to `preview/yard-stop-review`; deployment protection and company-domain separation are preserved.
+- The separate Vercel connector still lacks the voxel-designs team grant. This is independent of the working authenticated CLI and Git preview publishing.
+- Node.js 22.23.3 checks pass: 474 routes, 405 products and 68,610 internal references. Catalog tests also protect category counts, legacy links, natural-language search, exact numeric filters and non-mower breadcrumbs.
+- Design review found `copy-length: the primary line is a paragraph or over 12 words, the supporting line exceeds 20 words, or the view has more than one primary action.` Corrected the new headline to one sentence and made the persistent mower shortcut a secondary outline control. Rechecked PASS: files-before-ui, lookup-after-lock, nested-cards, radius-drift, mixed-radii, extra-color, gray-on-color, unchosen-font, equal-three-cards, copy-length, eyebrow-repeat, spectacle-pattern, motion-for-show, glass-decoration, motion-easing, restyle-per-screen. Product data and category-navigation grids are functional lists; existing department sections and complete product names remain as required by the user. Palette and type are unchanged.
+
 ## Remaining work
 
 1. Migrate and reconcile full original article and policy text; these currently remain summaries/adaptations. Reconcile all original page content, marketing prose, embeds and galleries against an authorized export.

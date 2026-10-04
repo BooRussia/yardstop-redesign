@@ -13,11 +13,11 @@ The local server opens at http://localhost:4173. The standalone `outputs/Yard-St
 
 ## Contents
 
-- 467 static routes, including 405 original catalog paths.
+- 474 static routes, including 405 original catalog paths and seven dedicated equipment category pages.
 - 29 discovered article routes, including nine not linked from the primary blog index.
 - Main garden, landscaping, equipment, contact, financing, service and location pages.
 - Original SunCoast and STIHL availability pages, plus shared purchase FAQs.
-- Responsive menus, search across products/services/articles, catalog filters and pagination, product galleries, and before/after comparison.
+- Homepage category catalog, direct mower navigation, responsive menus, search across products/services/articles, catalog filters and pagination, product galleries, up to three-model comparison, and before/after comparison.
 - Editable structured source data under `data/`.
 
 ## Vercel
@@ -26,7 +26,7 @@ Source repository: https://github.com/BooRussia/yardstop-redesign (private). The
 
 The prepared source was uploaded to `main` at the repository root on October 4, 2026 (initial import `436752b`), with all 20 source file hashes verified against GitHub. The existing Vercel project is `prj_NPcLcsgE2UyhWArzJtn1YmzPvRmg` in `voxel-designs` (`team_QaYPhccWt2WueSMcn46FTKlh`). Publishing was repaired by authenticating the Vercel CLI to the existing team and applying the required build settings. Only `preview/yard-stop-review` is enabled for automatic Git deployment; `main` and all other branches are disabled. Push reviewed preview changes to that branch. `.vercelignore` excludes generated output, local credentials and tool state from uploads.
 
-Protected branch preview: https://yardstop-redesign-git-preview-yard-stop-review-voxel-designs.vercel.app/ (sign in to Vercel with project access). The first verified Preview deployment is https://yardstop-redesign-m4j2e1ypa-voxel-designs.vercel.app/. The project retains Vercel Authentication protection (`all_except_custom_domains`). No company domain is attached. Vercel initializes a new project's first deployment as production even when Preview is requested; the temporary initialization deployments were removed after the separate Preview reached Ready. Do not enable production deployment or attach the live company domain during this review.
+Protected preview: https://yardstop-redesign.vercel.app/ (sign in to Vercel with project access). This existing Vercel address is assigned to `preview/yard-stop-review`, so it follows preview updates. The branch alias is https://yardstop-redesign-git-preview-yard-stop-review-voxel-designs.vercel.app/. The project retains Vercel Authentication protection (`all_except_custom_domains`). No company domain is attached. Vercel initializes a new project's first deployment as production even when Preview is requested; the temporary initialization deployments were removed after the separate Preview reached Ready. Do not enable production deployment or attach the live company domain during this review.
 
 The ChatGPT Vercel connector still returns a team-scope HTTP 403 independently of the working CLI and Git integration. To repair that connector, reconnect Vercel in the app's connection settings using the account that belongs to `voxel-designs`, and grant the connection access to this team/project. If the team is missing during authorization, its owner must add that Vercel account to the team first. Reauthorizing GitHub does not repair Vercel's separate OAuth grant.
 
@@ -54,4 +54,4 @@ This is a substantial design presentation, not a verified complete source migrat
 
 ## Verification performed
 
-`npm run build` and `npm run verify` pass under Node.js 22.23.3. Verification covers 467 pages, 405 product routes, 51,899 internal references, unique route paths, viewport metadata, one H1 per page and image alt attributes. Initial desktop and mobile browser checks passed for search, catalog filters/sorting/pagination, a product gallery, mobile navigation and preview-only form submission. A malformed inquiry selector was corrected so all eight choices work, with the correct product and appointment defaults. See `QA-REPORT.md` for scope and remaining work. This is not a complete accessibility, cross-browser or content-preservation audit.
+`npm run build` and `npm run verify` cover 474 pages, 405 product routes, 68,610 internal references, unique route paths, viewport metadata, one H1 per page and image alt attributes. Catalog regression checks cover dedicated and legacy categories, natural-language mower search, combined filters and exact deck/horsepower matching. Desktop and phone browser checks cover homepage category access, filtering, sorting, pagination, empty-state recovery, comparison, gallery selection, mobile navigation and preview-only inquiry submission. See `QA-REPORT.md` for the runtime version, scope and remaining work. This is not a complete accessibility, cross-browser or content-preservation audit.

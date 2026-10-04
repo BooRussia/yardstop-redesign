@@ -1,6 +1,6 @@
 # Design
 
-This records the prepared design for continuation. The user's instruction to preserve the existing design and full content takes priority over generic redesign rules. Layout repairs must retain the existing palette, typography, image treatment and copy.
+This records the prepared design for continuation. The user has requested clearer shopping navigation, a homepage category catalog and more polished motion. Preserve the palette, typography, exact logo, original content and truthful imagery while improving hierarchy and interaction.
 
 ## Color
 - background: warm ivory, `--paper: #faf9f4`; secondary `--cream: #f1f0e8`.
@@ -27,7 +27,13 @@ Keep the prepared colors and bright photographic flowers; introduce no new color
 - base: retain the prepared spacing; phone content padding 23px and product gallery gap 15px. Do not introduce a new spacing scale.
 
 ## Motion
-- duration: none for the gallery width repair.
-- easing: none for the gallery width repair.
+- duration: 180ms for navigation, disclosure, gallery selection and hover feedback; none when reduced motion is requested.
+- easing: ease-out.
 
-Leave existing interactions unchanged. Gallery thumbnails may scroll within their own row; the document must fit the viewport.
+Keep content visible without animation or JavaScript. No looping animation, scroll hijacking, or staged reveal that delays shopping. Use a brief crossfade for supported page navigation and a small image shift for hover/selection feedback. Gallery thumbnails may scroll within their own row; the document must fit the viewport.
+
+## Navigation and hierarchy
+- Compact floral homepage introduction, immediate mower action, then a visual category catalog and real product cards.
+- Persistent department navigation and direct mower shortcut. Active department, category title and breadcrumbs communicate location.
+- Category navigation uses image links as navigation, not decorative feature cards. Full product names and original specifications take priority over generic copy-length rules.
+- Product cards use readable model names, key specifications, price, an explicit detail link and a quiet comparison control.

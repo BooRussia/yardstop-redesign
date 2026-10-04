@@ -6,6 +6,8 @@ Reviewed October 4, 2026. Current original catalog listings: 405 across 34 pagin
 
 All 405 original catalog routes and their listing facts are represented. 394 have recovered specification tables. 328 have original image URLs. Navigation includes all original top-level groups and subpages, plus the SunCoast and STIHL availability destinations and shared purchase information.
 
+The shopping-navigation revision adds seven category routes, for 474 total pages. It preserves the 405 catalog records and their original paths, with a homepage category catalog, direct mower links, detail galleries and a browse-only model comparison. These interaction improvements do not resolve the source-migration gaps below.
+
 ## Unfinished source migration
 
 Articles and legal policies are condensed adaptations with links to full originals. They are not complete full-text migrations. Some product marketing prose is also condensed. Raw WordPress block layouts, unexposed gallery/background images, original video embeds, and the complete lead-system behavior were not available through the text retrieval channel. An authorized website export is the reliable next step for a word-for-word and asset-by-asset reconciliation.
