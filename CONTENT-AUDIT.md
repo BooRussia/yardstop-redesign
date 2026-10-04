@@ -38,4 +38,10 @@ Articles and legal policies are condensed adaptations with links to full origina
 
 ## Validation and deployment limits
 
-Build and static structural checks passed. Browser/mobile visual inspection and actual image dimensions remain unverified because this session could not launch a local server or Chromium. Original image downloading is blocked by outbound network/DNS restrictions. The private source repository is https://github.com/BooRussia/yardstop-redesign. GitHub upload was blocked because this session requires approval for writes but cannot prompt for it. The repository remains empty. Vercel access verification returned HTTP 403 for the voxel-designs team; reconnect that scope before deployment. Keep deployment protection enabled until client review is complete.
+Build and static structural checks pass on Node.js 22.23.3. The source is uploaded at the root of https://github.com/BooRussia/yardstop-redesign, with `package.json` at the top level. All 20 initial source files were verified against GitHub by Git blob hash (import `436752b`).
+
+All 603 recorded source image URLs were localized successfully without generating substitute equipment imagery. The unchanged original logo is included. This does not resolve the 77 listings without recovered exact photos or establish full original-gallery coverage. Visual suitability, image resolution and original-page reconciliation still require review.
+
+Initial browser checks passed on desktop and at mobile widths of 390px and 360px. Search, inventory filtering/sorting/pagination, a product image gallery, mobile navigation, form defaults and preview-only submission were exercised. A malformed form selector was repaired. See `QA-REPORT.md`; broad accessibility and cross-browser testing remain incomplete.
+
+Vercel still returns HTTP 403 for the voxel-designs team, and its team listing is empty. The browser dashboard requires sign-in. No hosted preview has been created or verified. Automatic Git deployments are disabled in `vercel.json` pending inspection of the existing project's deployment protection; the noindex headers, page metadata and robots block remain. Reconnect Vercel with access to the existing team/project, verify protection, and create a Preview deployment. No live company domain or production settings were changed.
